@@ -5,7 +5,6 @@ Attendly là một hệ thống quản lý điểm danh thông minh sử dụng 
 ## Tính năng chính
 
 - Xác thực người dùng (Authentication) với JWT
-- Quản lý người dùng (User Management)
 - Quản lý lớp học (Class Management)
 - Quản lý điểm danh (Attendance Management)
 - Tạo và quét mã QR Code cho điểm danh
