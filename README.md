@@ -45,8 +45,8 @@ src/
 
 1. Clone repository:
 ```bash
-git clone [repository-url]
-cd attendly-be
+git clone https://github.com/phamchien789vn/Attendly-BE-NodeJS.git
+cd Attendly-BE-NodeJS
 ```
 
 2. Cài đặt dependencies:
